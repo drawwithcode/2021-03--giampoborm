@@ -1,0 +1,28 @@
+{
+  "number" : 5,
+  "monkeys" : [
+    { "nome" : "sciampzne",
+      "popolazione" : 300000,
+      "peso" : 60,
+      "altezza" : 120
+    },
+    { "nome" : "gorilla",
+      "popolazione" : 250000,
+      "peso" : 60,
+      "altezza" : 120
+    },
+    { "nome" : "orango",
+      "popolazione" : 73000,
+      "peso" : 60,
+      "altezza" : 120
+    },   { "nome" : "siamango",
+      "popolazione" :200000,
+      "peso" : 60,
+      "altezza" : 120
+    }, { "nome" : "funeemonkeee",
+      "popolazione" :100000,
+      "peso" : 60,
+      "altezza" : 120
+    }
+  ]
+}
